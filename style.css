@@ -35,6 +35,7 @@
         font-family: sans-serif;
         vertical-align: center;
         color: white;
+        font-size: 1.4em;
       }
       .default {
         visibility: hidden;
