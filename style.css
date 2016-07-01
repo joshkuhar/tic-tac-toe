@@ -32,7 +32,7 @@
       }
         
       span {
-        font-family: "Comic Sans MS", cursive, sans-serif;
+        font-family: sans-serif;
         vertical-align: center;
         color: white;
       }
@@ -43,4 +43,10 @@
       .x, .o{
         color: red;
       }
+
+      .xo {
+        display: none;
+      }
+
+  
 
